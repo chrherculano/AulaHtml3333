@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #c075b0;
+ color:white
+}
+a:visited {
+  color: rgb(8, 8, 8);
+}
+
+nav > ul > a {
+  color: blue;
+  text-decoration: none;
+}
+
+nav > ul > a:hover {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+p{
+  text-align: left;
+}
+
+
+header> .container {
+  background-color: rgb(38, 25, 156);
+  width: 100%;
+  height: 0%;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  background-color: rgb(38, 25, 156);
+  padding: 20px;
+  border: 1px solid #ccc;
+}
